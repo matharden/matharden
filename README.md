@@ -1,4 +1,5 @@
-🌱 I’m currently learning GraphQL
+🌱 I’m aleays learning
+😄 Pronouns: he/him
 
 <!--
 **matharden/matharden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
