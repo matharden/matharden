@@ -1,4 +1,4 @@
-🌱 I’m aleays learning  
+🌱 I’m always learning  
 😄 Pronouns: he/him
 
 <!--
